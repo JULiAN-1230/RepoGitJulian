@@ -1,1 +1,1 @@
-aws cloudformation delete-stack --stack-name WordPressPerez
+aws cloudformation delete-stack --stack-name UbuntuServer20
